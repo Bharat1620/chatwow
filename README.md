@@ -2,7 +2,7 @@
 Social Networking web application made on top of MERN stack which allows user to login, signup, create new posts, like and comment on other posts, update profile pic and much more like a real social media app
 
  ChatWow Login page
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow login.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow login.png?raw=true)
 
 
 
