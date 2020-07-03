@@ -7,29 +7,29 @@ Social Networking web application made on top of MERN stack which allows user to
 
 
 ChatWow Signup page
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_signup.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_signup.png?raw=true)
 
 
 
 ChatWow Home page-1
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_home1.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_home1.png?raw=true)
 
 
 ChatWow Home page-2
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_home2.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_home2.png?raw=true)
 
 
 
 ChatWow Profile page
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_profile.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_profile.png?raw=true)
 
 
 
 ChatWow create post page-1
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_createpost.png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_createpost.png?raw=true)
 
 
 
 ChatWow create post page-2
-![](https://github.com/Jackent2B/YelpCamp-website/blob/master/chatwow_create_post2png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_create_post2png?raw=true)
 
