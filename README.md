@@ -11,12 +11,27 @@ ChatWow Signup page
 
 
 
+
+
+
+
 ChatWow Home page-1
 ![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_home1.png?raw=true)
 
 
+
+
+
+
+
 ChatWow Home page-2
 ![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_home2.png?raw=true)
+
+
+
+
+
+
 
 
 
@@ -25,11 +40,22 @@ ChatWow Profile page
 
 
 
+
+
+
+
 ChatWow create post page-1
 ![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_createpost.png?raw=true)
 
 
 
+
+
+
+
+
+
+
 ChatWow create post page-2
-![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_create_post2png?raw=true)
+![](https://github.com/Jackent2B/chatwow/blob/master/chatwow_create_post2.png?raw=true)
 
