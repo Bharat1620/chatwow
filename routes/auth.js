@@ -9,6 +9,7 @@ const User = require('../models/user');
 //assigning jwt tokens to users signing in
 const jwt = require('jsonwebtoken'); 
 const {JWT_TOKEN} = require('../keys')
+
 const verifyToken = require('../middleware/verifyToken')
 
 

@@ -1,5 +1,6 @@
 const jwt = require('jsonwebtoken');
 const {JWT_TOKEN} = require('../keys');
+// const JWT_TOKEN = process.env.JWT;
 const mongoose = require('mongoose');
 const User = require('../models/user');
 
