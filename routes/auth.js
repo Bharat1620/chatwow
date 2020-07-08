@@ -104,8 +104,8 @@ router.post('/signin',(req,res,next)=>{
 				if(passwordMatch){
 					//res.json({message:"Successfully signed in"});
 					const token = jwt.sign({_id:savedUser._id},JWT_TOKEN);
-					const {_id,name,email,pic}=savedUser;
-					res.json({token:token,user:{_id,name,email,pic}});
+					const {_id,name,email,pic,followers,following}=savedUser;
+					res.json({token:token,user:{_id,name,email,pic, followers,following}});
 				}
 				else
 					res.json({message:"Email or Password is incorrect"});

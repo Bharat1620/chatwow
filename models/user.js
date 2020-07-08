@@ -1,5 +1,9 @@
 const mongoose = require('mongoose');
 
+//To get objectId from userSchema
+const {ObjectId}=mongoose.Schema.Types;
+
+
 const userSchema = new mongoose.Schema({
 	name:{
 		type:String,
@@ -13,6 +17,15 @@ const userSchema = new mongoose.Schema({
 		type:String,
 		required: true
 	},
+	followers:[{
+		type: ObjectId,
+		ref: "User"
+	}],
+	following:[{
+		type: ObjectId,
+		ref: "User"
+	}],
+	
 	pic:{
 		type:String,
 		default:"https://res.cloudinary.com/jackent2b/image/upload/v1593701182/defaultpic_tkj0ca.png"
